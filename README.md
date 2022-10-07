@@ -9,4 +9,4 @@
 - [Networked Physics](https://gafferongames.com/post/networked_physics_2004/)
 
 ## Other
-- [John Carmacks's Quake logs](https://www.gamers.org/dEngine/quake/info/worklogs.html)
+- [John Carmack's Quake logs](https://www.gamers.org/dEngine/quake/info/worklogs.html)

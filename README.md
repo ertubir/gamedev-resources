@@ -15,5 +15,8 @@
 ## Programming
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
 
+## Marketing
+- [How Do You Market & Monetize Hyper-Casual Games](https://blog.getsocial.im/how-do-you-market-and-monetize-hyper-casual-games/)
+
 ## Other
 - [John Carmack's Quake logs](https://www.gamers.org/dEngine/quake/info/worklogs.html)
